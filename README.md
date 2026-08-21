@@ -59,6 +59,7 @@ Oleh karena itu, risk score tersebut lebih tepat digunakan sebagai indikator eks
 
 ## Tools Used in Project
 
+- Google BigQuery
 - Microsoft Excel
 - Power Query
 - Power Pivot
@@ -81,9 +82,6 @@ Oleh karena itu, risk score tersebut lebih tepat digunakan sebagai indikator eks
 - Data Visualization
 - Business Recommendation
 
-## Additional Skills
 
-- SQL
-- Google BigQuery
 
 Project ini dibuat sebagai portfolio untuk menunjukkan kemampuan melakukan analisis data end-to-end, mulai dari data preparation, data modeling, KPI calculation, statistical analysis, customer segmentation, rule-based modeling, model validation, hingga business recommendation.
