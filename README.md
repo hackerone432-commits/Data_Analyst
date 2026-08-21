@@ -2,6 +2,13 @@
 
 ## Tentang Project
 
+## Project Files
+
+| File | Description |
+|---|---|
+| Excel Analysis | [HERE](./Retail%20-%20ElectroMax.xlsx) |
+| Power BI Dashboard | [HERE](./Retail%20-%20ElectroMax.pbix) |
+
 Project ini bertujuan untuk menganalisis performa penjualan ElectroMax selama periode 2023–2025, mengidentifikasi faktor yang berkaitan dengan perubahan revenue, serta menghasilkan insight dan rekomendasi yang dapat mendukung pengambilan keputusan bisnis.
 
 Project ini dibuat sebagai portfolio untuk menunjukkan kemampuan dalam melakukan proses analisis data mulai dari data preparation, data modeling, perhitungan KPI, analisis statistik, hingga penyusunan rekomendasi bisnis.
