@@ -2,7 +2,8 @@
 
 ## Project Files
 
-Excel Analysis [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retaill%20-%20ElectroMax.xlsx)
+- Excel Analysis [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retail%20-%20ElectroMax.xlsx)
+- Dashboard Power BI [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retail%20-%20ElectroMax.pbix)
 
 ## Tentang Project
 
@@ -54,6 +55,33 @@ Di sisi lain, kelompok **Increasing** yang mencakup 37,24% pelanggan dengan pert
 
 - Eksperimen risk scoring berbasis RFM 2024 belum menunjukkan kemampuan yang konsisten dalam memprediksi pelanggan At Risk pada 2025.
 Oleh karena itu, risk score tersebut lebih tepat digunakan sebagai indikator eksploratif, bukan sebagai model prediksi churn final.
+
+
+## Tools Used in Project
+
+- Google BigQuery
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX
+- Power BI
+
+## Skills Used in Project
+
+- Data Profiling
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- KPI Analysis
+- RFM Analysis
+- Correlation Analysis
+- Customer Segmentation
+- Rule-Based Risk Scoring
+- Model Evaluation
+- Business Analysis
+- Data Visualization
+- Business Recommendation
+
 
 
 Project ini dibuat sebagai portfolio untuk menunjukkan kemampuan melakukan analisis data end-to-end, mulai dari data preparation, data modeling, KPI calculation, statistical analysis, customer segmentation, rule-based modeling, model validation, hingga business recommendation.
