@@ -2,8 +2,8 @@
 
 ## Project Files
 
-Excel Analysis [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retail%20-%20ElectroMax.xlsx)
-Dashboard Power BI [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retail%20-%20ElectroMax.pbix)
+- Excel Analysis [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retail%20-%20ElectroMax.xlsx)
+- Dashboard Power BI [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retail%20-%20ElectroMax.pbix)
 
 ## Tentang Project
 
