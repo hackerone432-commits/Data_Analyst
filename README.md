@@ -2,7 +2,7 @@
 
 ## Project Files
 
-Excel Analysis [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retaill%20-%20ElectroMax.xlsx)
+Excel Analysis [HERE](https://github.com/hackerone432-commits/Data_Analyst/blob/master/Retail%20-%20ElectroMax.xlsx)
 
 ## Tentang Project
 
