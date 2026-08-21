@@ -57,4 +57,33 @@ Di sisi lain, kelompok **Increasing** yang mencakup 37,24% pelanggan dengan pert
 Oleh karena itu, risk score tersebut lebih tepat digunakan sebagai indikator eksploratif, bukan sebagai model prediksi churn final.
 
 
+## Tools Used in Project
+
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX
+- Power BI
+
+## Skills Used in Project
+
+- Data Profiling
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- KPI Analysis
+- RFM Analysis
+- Correlation Analysis
+- Customer Segmentation
+- Rule-Based Risk Scoring
+- Model Evaluation
+- Business Analysis
+- Data Visualization
+- Business Recommendation
+
+## Additional Skills
+
+- SQL
+- Google BigQuery
+
 Project ini dibuat sebagai portfolio untuk menunjukkan kemampuan melakukan analisis data end-to-end, mulai dari data preparation, data modeling, KPI calculation, statistical analysis, customer segmentation, rule-based modeling, model validation, hingga business recommendation.
